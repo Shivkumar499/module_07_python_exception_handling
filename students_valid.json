@@ -1,0 +1,22 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Shiv",
+        "department": "cse ai/ml",
+        "marks": [
+            80,
+            78,
+            98
+        ]
+    },
+    {
+        "student_id": "S102",
+        "name": "Ravi",
+        "department": "cse ai/ml",
+        "marks": [
+            78,
+            89,
+            96
+        ]
+    }
+]
